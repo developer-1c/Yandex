@@ -1,2 +1,2 @@
 # Yandex
-1c configurations developed by me at Yandex
+1c configurations that I developed at Yandex LLC
